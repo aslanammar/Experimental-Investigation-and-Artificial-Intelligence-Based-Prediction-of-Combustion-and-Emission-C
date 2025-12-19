@@ -1,5 +1,5 @@
-# Artificial Intelligence-Assisted Experimental Study on the Effects of Dibutyl Maleate Additive Under Varying Injection Timings in Compression Ignition Engines
-
+# [Artificial Intelligence-Assisted Experimental Study on the Effects of Dibutyl Maleate Additive Under Varying Injection Timings in Compression Ignition Engines
+](https://github.com/aslanammar/Experimental-Investigation-and-Artificial-Intelligence-Based-Prediction-of-Combustion-and-Emission-C)
 Machine learning-based prediction of combustion characteristics in diesel engines.
 
 ## Models
